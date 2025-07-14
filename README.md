@@ -15,7 +15,6 @@ A creative and responsive Weather Dashboard that displays real-time weather info
 👉 [Click here to try the Weather Dashboard Live](https://maneesh004-code.github.io/weather-dashboard-app/)  
 
 
-
 ## 🛠️ Tech Stack
 
 - HTML5
